@@ -1,4 +1,4 @@
-    *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -80,11 +80,4 @@
     .TABELASS{
         height: 565px;
         padding: 1%;
-    }
-    table{
-        width: 800px;
-        height: 200px;
-        border: 1;
-        font-size: 25pt;
-        
     }
